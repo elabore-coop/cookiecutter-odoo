@@ -6,7 +6,7 @@ cookiecutter-odoo
    :target: https://travis-ci.org/0k/cookiecutter-odoo/
    :alt: Travis CI build status
 
-A modified cookiecutter_ template for OpenERP/Odoo.
+A modified cookiecutter_ template for Odoo.
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
@@ -31,33 +31,31 @@ We intend to produce compatible and full project for corresponding
 Features
 --------
 
-* OpenERP/Odoo version:
-
-  - Odoo 8.0
-
 * Include:
-
-  - report
-  - security
-  - web (xml, css, js)
-  - views
+  - controllers
+  - data
+  - i18n
   - models
+  - security
+  - static (xml, css, js)
+  - views
+  - wizards
 
 
 Usage
 -----
 
-First install `cookiecutter`_ from our repositories::
+First install `cookiecutter`_ from 0k's repositories::
 
     $ pip install git+https://github.com/0k/cookiecutter
 
 Now run with this repo::
 
-    $ cookiecutter gh:0k/cookiecutter-odoo
+    $ cookiecutter gh:elabore-coop/cookiecutter-odoo
 
 Branch selection can be done with ``--checkout``::
 
-    $ cookiecutter gh:0k/cookiecutter-odoo --checkout 8.0
+    $ cookiecutter gh:0k/cookiecutter-odoo --checkout 16.0
 
 For more info about cookiecutter_ options and usage, please check `cookiecutter documentation`_.
 
@@ -113,7 +111,7 @@ Licensed under the `BSD License`_.
 Thanks
 ======
 
-- `sudokeys`_ funding this package and providing great `OpenERP/Odoo`_ solutions.
+- `sudokeys`_ funding this package and providing great `Odoo`_ solutions.
 
 .. _sudokeys: http://www.sudokeys.com
-.. _OpenERP/Odoo: http://www.odoo.com
+.. _Odoo: http://www.odoo.com

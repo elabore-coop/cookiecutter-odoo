@@ -1,4 +1,4 @@
-openerp.{{name}} = function (instance) {
+odoo.{{name}} = function (instance) {
 
     var _t = instance.web._t,
     _lt = instance.web._lt;

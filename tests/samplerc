@@ -1,9 +1,8 @@
 default_context:
     name: my_odoo_module
-    author: Valentin Lab
-    email: "valentin.lab@kalsyto.org"
-    website: http://www.example.com
-    github_username: "vaab"
-    license_years: 2015
-    version: "0.3"
+    author: Elabore
+    email: "contact@elabore.coom"
+    github_username: "elabore-coop"
+    license_years: 2023
+    version: "16.0.1.0.0"
 
