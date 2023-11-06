@@ -1,4 +1,4 @@
-# Copyright {{license_years}} Stéphan Sainléger ({{company}})
+# Copyright {{license_years}} Laetitia Da Costa ({{company}})
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
@@ -6,7 +6,7 @@
     "version": "{{version}}",
     "author": "Elabore",
     "website": "https://elabore.coop",
-    "maintainer": "Stéphan Sainléger",
+    "maintainer": "Laetitia Da Costa",
     "license": "AGPL-3",
     "category": "{{category}}",
     "summary": "{{summary}}",

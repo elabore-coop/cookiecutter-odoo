@@ -29,7 +29,7 @@ Credits
 Contributors
 ------------
 
-* Stéphan Sainléger - `Email<mailto:stephan.sainleger@elabore.coop>` - `Github<https://github.com/stephansainleger>`
+* Laetitia Da Costa - `Email<mailto:laetitia.dacosta@elabore.coop>` - `Github<https://github.com/LaetitiaElabore>`
 
 Funders
 -------
