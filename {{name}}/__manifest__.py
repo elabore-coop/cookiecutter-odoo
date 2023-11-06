@@ -1,4 +1,4 @@
-# Copyright {{license_years}} Stéphan Sainléger ({{company}})
+# Copyright {{license_years}} Boris Gallet ({{company}})
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
@@ -6,7 +6,7 @@
     "version": "{{version}}",
     "author": "Elabore",
     "website": "https://elabore.coop",
-    "maintainer": "Stéphan Sainléger",
+    "maintainer": "Boris Gallet",
     "license": "AGPL-3",
     "category": "{{category}}",
     "summary": "{{summary}}",

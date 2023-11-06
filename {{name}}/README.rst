@@ -29,7 +29,7 @@ Credits
 Contributors
 ------------
 
-* Stéphan Sainléger - `Email<mailto:stephan.sainleger@elabore.coop>` - `Github<https://github.com/stephansainleger>`
+* Boris Gallet - `Email<mailto:boris.gallet@elabore.coop>` - `Github<https://github.com/b0g>`
 
 Funders
 -------
