@@ -2,12 +2,6 @@ context:
   name:
     help: "Module name (ie: sale_trinkets)"
     regex: '[a-zA-Z0-9_]+'
-  author:
-    help: "Author Name (ie: John Doe)"
-    regex: '.+'
-  email:
-    help: "Author email (ie: john.doe@example.com)"
-    regex: '[a-zA-Z0-9_.]+@[a-zA-Z0-9_.-]+\.[a-zA-Z0-9_.-]+'
   summary:
     help: Short description of your module
   category:
