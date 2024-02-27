@@ -1,4 +1,4 @@
-import models
+from . import models
 # import controllers
 # import wizard
 
